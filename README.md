@@ -35,9 +35,9 @@ The **Budget Tracker** provides an easy-to-use solution for tracking **monthly a
 
 ### **Images**
 - <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Home%20Worksheet.png"> Home Worksheet</a>
-- <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Income%20Worksheet.png"> Home Worksheet</a>
-- <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Expenses%20Worksheet.png"> Home Worksheet</a>
-- <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Savings%20Worksheet.png"> Home Worksheet</a>
+- <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Income%20Worksheet.png"> Income Worksheet</a>
+- <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Expenses%20Worksheet.png"> Expense Worksheet</a>
+- <a href="https://github.com/Mohd-Faisal8081/Budget-Tracker-Excel/blob/main/Savings%20Worksheet.png"> Saving Worksheet</a>
 
 ### **DataSet**
 
