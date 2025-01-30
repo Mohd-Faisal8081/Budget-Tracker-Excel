@@ -20,13 +20,13 @@ The **Budget Tracker** provides an easy-to-use solution for tracking **monthly a
 
 ### **Process & Implementation**
 1. **Data Input Structure**  
-   - Users enter **income sources, expense categories, and amounts** in a structured table.  
+- Users enter **income sources, expense categories, and amounts** in a structured table.  
 
 2. **Automated Calculations**  
-   - Excel **SUM, IF, and LOOKUP** functions calculate **total income, expenses, and remaining balance**.  
+- Excel **SUM, IF, and LOOKUP** functions calculate **total income, expenses, and remaining balance**.  
 
 3. **Dynamic Data Visualization**  
-   - **Pivot Tables** summarize data, while **charts visualize trends** for better decision-making.  
+- **Pivot Tables** summarize data, while **charts visualize trends** for better decision-making.  
 
 ### **Results & Insights**  
 1. **Expense Analysis**: Identifies the **top spending categories** and unnecessary expenses.  
