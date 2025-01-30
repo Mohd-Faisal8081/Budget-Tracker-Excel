@@ -31,9 +31,18 @@ The **Budget Tracker** provides an easy-to-use solution for tracking **monthly a
 ### **Results & Insights**  
 1. **Expense Analysis**: Identifies the **top spending categories** and unnecessary expenses.  
 2. **Savings Trends**: Tracks how much is saved **each month and year**.  
-3. **Financial Health Check**: Shows whether spending is within or exceeding the budget.  
+3. **Financial Health Check**: Shows whether spending is within or exceeding the budget.
+
+### **Images**
+- 
+- 
+- 
+- 
+
+### **DataSet**
+
 
 ### **Author**  
 **Mohd Faisal**  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Email**: [Your Email Address](#)  
+- **LinkedIn**: www.linkedin.com/in/mohdfaisal-data-analyst
+- **Email**: mohd.faisal8278@gmail.com
